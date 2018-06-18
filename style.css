@@ -1,0 +1,18 @@
+body {
+	font-size: 18px;
+	font-family: Helvetica Neue;
+	background: #dedede;
+}
+
+#gradient {
+	background-image: linear-gradient(to bottom, #095ad5, #727fe0, #a8a7ea, #d5d2f5, #dedede);
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-top: -8px;
+    justify-content: center;
+    flex-direction: column;
+}
+#menu {
+	margin-left: 8px;
+	margin-top: 8px;
+}
