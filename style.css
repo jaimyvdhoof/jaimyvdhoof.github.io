@@ -1,19 +1,22 @@
 body {
-	font-size: 20px;
-	color: black;
-	background-color: black;
-	font-family: 'Archivo Black', sans-serif;
-	background: black;
+	font-size: 16px;
+	font-family: 'Times'
 }
 
 #gradient {
-	background-image: linear-gradient(to bottom, #ffffff, #000000);
 	margin-left: -8px;
 	margin-right: -8px;
-	margin-top: -8px;
+	margin-top: 15px;
 	height: 50px;
+
 }
-#menu {
+#nav {
 	margin-left: 18px;
 	padding: 8px;
+	position: fixed;
+	width: 300px;
+	color: green;
+}
+#work {
+	padding: 60px;
 }
